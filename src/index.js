@@ -1,1 +1,3 @@
-console.log("hello world !!");
+import router from "./routes";
+
+window.addEventListener("load", router);
